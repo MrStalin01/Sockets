@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "Cien a\u00f1os de soledad",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "isbn": "978-8437604947",
+        "disponible": true
+    },
+    {
+        "titulo": "El c\u00f3digo Da Vinci",
+        "autor": "Dan Brown",
+        "isbn": "978-0307474278",
+        "disponible": true
+    },
+    {
+        "titulo": "Python para Dummies",
+        "autor": "Stephen Lott",
+        "isbn": "978-1119547372",
+        "disponible": false
+    }
+]
